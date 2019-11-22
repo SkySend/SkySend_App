@@ -1,2 +1,2 @@
 # SkySend_App
-MVP of the SkySned App
+MVP of the SkySend App
